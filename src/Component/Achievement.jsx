@@ -1,7 +1,8 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 
-import Dsa from "../assets/DSA_Certificate.jpeg";
+// import Dsa from "../assets/DSA_Certificate.jpeg";
+import DSA from "../assets/dsa_certificate.jpeg";
 import MERN from "../assets/MERN_Certificate.jpeg";
 import NPTL from "../assets/NPTL_Certificate.jpeg";
 import TCSION from "../assets/TCS_Certificate.jpeg";
@@ -30,7 +31,7 @@ const Achievement = () => {
     Instructor: Shradha Khapra (Co-Founder, Apna College)
 
     Successfully completed the Alpha (DSA with Java) course offered by Apna College. Gained in-depth knowledge of Data Structures and Algorithms using Java, covering topics such as arrays, linked lists, stacks, queues, recursion, trees, graphs, and dynamic programming. Strengthened problem-solving skills and algorithmic thinking through extensive coding practice and real-world exercises.`,
-      image: Dsa,
+      image: DSA,
     },
     {
       id: 2,
