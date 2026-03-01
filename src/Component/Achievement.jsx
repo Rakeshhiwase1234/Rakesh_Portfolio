@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { motion } from "framer-motion";
 
 // import Dsa from "../assets/DSA_Certificate.jpeg";
-import DSA from "../assets/dsa_certificate.jpeg";
+import DSA from "../assets/dsa.jpeg";
 import MERN from "../assets/MERN_Certificate.jpeg";
 import NPTL from "../assets/NPTL_Certificate.jpeg";
 import TCSION from "../assets/TCS_Certificate.jpeg";
