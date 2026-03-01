@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+
+/* @keyframes gradientMove {
+  0% { background-position: 0% center; }
+  100% { background-position: -200% center; }
+}
+.animate-gradientMove {
+  animation: gradientMove 4s linear infinite;
+} */
+
+
+.typed {
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 2px solid #60a5fa;
+}
